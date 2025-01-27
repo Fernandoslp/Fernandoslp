@@ -1,6 +1,6 @@
 ## Olá! eu sou o Fernando Sousa
 
-- 🔭 Hoje trabalho com suporte n2 e backend
+- 🔭 Hoje trabalho com foco em backend
 - 🌱 Estudando JavaScript e Python
 
 <div style="display: inline_block"><br>
